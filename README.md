@@ -1,3 +1,4 @@
+### Hi There
 Welcome to my GitHub Profile!
 
 Hi! I'm Daniel from Philippines. I am a student from Refocus Academy and I Enjoy learning coding languanges. I was simply interested at first, however I realised I wanted to do it fulltime. 
